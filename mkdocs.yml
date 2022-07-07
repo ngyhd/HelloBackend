@@ -33,7 +33,7 @@ theme:
     repo: fontawesome/brands/github
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
-repo_url: https://ngyhd.github.io/HelloBackend/ # 右上角点击跳转的链接
+repo_url: https://ngyhd.github.io/HelloBackend # 右上角点击跳转的链接
 repo_name: HelloBackend/ # 右上角的名字
 ## [bottom-left corner]
 copyright: Copyright &copy; 2022 # 左下角的版权声明
@@ -47,10 +47,14 @@ extra:
 # [Navigtion]
 nav:
   - 编程: 
-    - dev/index.md 
+    - dev/README.md 
     - Go: 
       - 入门Go: dev/go/hellogo.md
     - 面试: dev/interview/README.md
+  - 编程: 
+    - reading/README.md 
+
+
 
 
 # [Extensions]
