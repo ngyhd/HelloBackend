@@ -2,7 +2,7 @@
 site_name: ngyhd的个人网站 # 左上角标题
 site_url: https://github.com/ngyhd/HelloBackend
 site_author: ngyhd
-site_description: ngyhd的个人网站
+site_description: ngyhd的个人空间
 
 # [UI]
 ## [top]
@@ -34,7 +34,7 @@ theme:
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
 repo_url: https://ngyhd.github.io/HelloBackend # 右上角点击跳转的链接
-repo_name: HelloBackend/ # 右上角的名字
+repo_name: HelloBackend # 右上角的名字
 ## [bottom-left corner]
 copyright: Copyright &copy; 2022 # 左下角的版权声明
 ## [bottom-right corner]
