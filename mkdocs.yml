@@ -1,8 +1,8 @@
 # [Info]
-site_name: Sean的空间 # 左上角标题
+site_name: Sean's空间 # 左上角标题
 site_url: https://github.com/ngyhd/HelloBackend
-site_author: ngyhd
-site_description: Sean的空间
+site_author: Sean｜2024
+site_description: Sean's空间
 
 # [UI]
 ## [top]
@@ -36,15 +36,15 @@ edit_uri: /ngyhd/HelloBackend/tree/master/docs # 编辑按钮跳转的链接
 repo_url: https://github.com/ngyhd/HelloBackend # 右上角点击跳转的链接
 repo_name: HelloBackend # 右上角的名字
 ## [bottom-left corner]
-copyright: Copyright &copy; 2022 # 左下角的版权声明
+copyright: Copyright &copy; 2022-2024 # 左下角的版权声明
 ## [bottom-right corner]
 extra:
-  social: # icons
+  social: # icons 右下角社交图标
     - icon: fontawesome/brands/github
       link: https://github.com/ngyhd
-      name: GitHub | ngyhd
+      name: About | Sean
 
-# [Navigtion]
+# [Navigtion] 导航栏
 nav:
   - 编程: 
     - dev/README.md 
